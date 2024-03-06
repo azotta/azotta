@@ -14,9 +14,9 @@
 
 ## Publications
 
-1. MOTA, ANA PAULA ZOTTA; KOUTSOVOULOS, G. D.; PERFUS-BARBEOCH, L.; DESPOT-SLADE, E.; LABADIE, K.; AURY, J. M.; ROBBE-SERMESANT, K; BAILLY-BECHET, M; BELSER, C; PERE, A; RANCURREL, C.; KOZLOWSKI, DK; HASSANALY-GOULAMHOUSSEN, R; DA ROCHA, M.; NOEL, B; MESTROVIC-RADAN, N.; WINCKER, P. & DANCHIN, E. G. (2023). Unzipped assemblies of polyploid root-knot nematode genomes reveal new kinds of unilateral composite telomeric repeats. bioRxiv, https://doi.org/10.1101/2023.03.29.534350
+1. MOTA, ANA PAULA ZOTTA; KOUTSOVOULOS, G. D.; PERFUS-BARBEOCH, L.; DESPOT-SLADE, E.; LABADIE, K.; AURY, J. M.; ROBBE-SERMESANT, K; BAILLY-BECHET, M; BELSER, C; PERE, A; RANCURREL, C.; KOZLOWSKI, DK; HASSANALY-GOULAMHOUSSEN, R; DA ROCHA, M.; NOEL, B; MESTROVIC-RADAN, N.; WINCKER, P. & DANCHIN, E. G. (2024). Unzipped assemblies of polyploid root-knot nematode genomes reveal new kinds of unilateral composite telomeric repeats. bioRxiv, https://doi.org/10.1101/2023.03.29.534350
 
-2. MOTA, ANA PAULA ZOTTA; DOSSA, K; LECHAUDEL, M; CORNET, D; MOURNET, P; LOPEZ, D; CHAIR, H Genomic insights into greater yam tuber quality traits. bioRxiv. doi: https://doi.org/10.1101/2023.03.17.532727 (2023).
+2. MOTA, ANA PAULA ZOTTA; DOSSA, K; LECHAUDEL, M; CORNET, D; MOURNET, P; SANTONI, S; LOPEZ, D; CHAIR, H Whole-genome sequencing and comparative genomics reveal candidate genes associated with quality traits in Dioscorea alata. 2024 BMC genomics. https://doi.org/10.1186/s12864-024-10135-2.
 
 3. DOSSA, K; MOREL, A; HOUNGBO ME; MOTA, ANA PAULA ZOTTA; MALÉDON, E; IREP, JL; DIMAN, JL; MOURNET, P; CAUSSE, S; VAN, KN; CORNET, D; CHAIR, H. Genome-wide association studies reveal novel loci controlling tuber flesh color and oxidative browning in Dioscorea alata bioRxiv doi: https://doi.org/10.1101/2023.03.12.532275 (2023)
 
