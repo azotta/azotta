@@ -18,7 +18,7 @@
 
 2. MOTA, ANA PAULA ZOTTA; DOSSA, K; LECHAUDEL, M; CORNET, D; MOURNET, P; SANTONI, S; LOPEZ, D; CHAIR, H Whole-genome sequencing and comparative genomics reveal candidate genes associated with quality traits in Dioscorea alata. 2024 BMC genomics. https://doi.org/10.1186/s12864-024-10135-2.
 
-3. DOSSA, K; MOREL, A; HOUNGBO ME; MOTA, ANA PAULA ZOTTA; MALÉDON, E; IREP, JL; DIMAN, JL; MOURNET, P; CAUSSE, S; VAN, KN; CORNET, D; CHAIR, H. Genome-wide association studies reveal novel loci controlling tuber flesh color and oxidative browning in Dioscorea alata bioRxiv doi: https://doi.org/10.1101/2023.03.12.532275 (2023)
+3. DOSSA, K; MOREL, A; HOUNGBO ME; MOTA, ANA PAULA ZOTTA; MALÉDON, E; IREP, JL; DIMAN, JL; MOURNET, P; CAUSSE, S; VAN, KN; CORNET, D; CHAIR, H. Genome-wide association studies reveal novel loci controlling tuber flesh color and oxidative browning in Dioscorea alata. 2023 Journal of Food and Agriculture https://doi.org/10.1002/jsfa.12721
 
 4. GUIMARAES, PM; QUINTANA, ACM;  MOTA, ANA PAULA ZOTTA ; BERBERT, PS; FERREIRA, DS; AGUIAR, MN; PEREIRA, BM; ARAUJO, ACG; BRASILEIRO, ACM. Engineering resistance Against Sclerotinia sclerotiorum using a truncated NLR (TNx) and a defense-priming gene.  Plants, v.11, p. 3483, 2022
 
