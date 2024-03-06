@@ -4,12 +4,14 @@
 
 - 🔭 My main research interests are: 
 - 🌱 Bioinformatics with specialization in genomics
-- 🌱 Population genomics, transcriptomics 
+- 🌱 Population genomics,
+- 🌱 Plant transcriptomics in response to biotic and abiotic stresses
 - 🌱 Comparative genomics
 - 🌱 High-throughput genome sequencing
 - 🌱 Evolution of plant genomes and pathogens	
-- 🌱 Plant responses to biotic and abiotic stresses
 - 🌱 Molecular biology
+
+More information [here](https://anazotta.wordpress.com)
 
 
 ## Publications
